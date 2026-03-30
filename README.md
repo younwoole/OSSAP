@@ -1,1 +1,1 @@
-Print("Fuck the world");# OSSAP
+print("Fuck the world");# OSSAP
